@@ -1,0 +1,51 @@
+.jumbotron 
+    {
+      background-color: #f8fc03;
+      padding: 2rem 2rem;
+      display: flex;
+      flex-direction: row;
+      border-radius:0rem;
+    }
+    .jumbotron img
+    {
+      width: 600px;
+    }
+   
+    .bg-custom{
+      background-color: #baf562; 
+    }
+
+    .nav-link, .navbar-brand{
+      color: green;
+    }
+    .navbar-text a{
+       color: green;
+    }
+    #about p{
+      text-align: justify;
+      user-select: none;
+    }
+
+#addtocart{
+width:40px;
+float:right;
+background-color: #a9bdc2;
+}
+
+.slider {
+    display: flex;
+  align-items: center;
+}
+.slider img {
+
+  width:200px; 
+}
+
+
+.footer {
+  display: flex;
+  align-items: center;
+  margin-top: 200px;
+  height: 250px;
+  background-color: #ebba34;
+}
